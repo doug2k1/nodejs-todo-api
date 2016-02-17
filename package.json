@@ -18,6 +18,9 @@
   "homepage": "https://github.com/doug2k1/nodejs-todo-api#readme",
   "dependencies": {
     "body-parser": "1.15.0",
-    "express": "4.13.4"
+    "express": "4.13.4",
+    "lodash": "4.4.0",
+    "sequelize": "3.19.2",
+    "sqlite3": "3.1.1"
   }
 }
